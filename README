@@ -1,0 +1,28 @@
+INSTRUCCIONS
+
+1.git branch branca00
+  git checkout branca00
+  git status
+
+5.git checkout main
+  git status
+  git log
+
+7.git checkout branca00
+  geany Prjava02.java  
+
+10(b).git merge branca00
+
+12.git push -u origin master
+
+14(a).git push --set-upstream origin branca01
+
+RESPOSTES
+
+6. No perque l'hem afegit a la branca branca00 i ara estem mirant a la branca main
+
+7. Si perque ara si estem mirant la branca on vam actualitzar el fitxer Prjava02.java
+
+12(c). Perque hem fet un merge i ara nomes existeix la branca main
+
+14(c).La branca branca01 esta a 1 commit per devant de la main
